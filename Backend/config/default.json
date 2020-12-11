@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://Ahmed:tTEnGH7GxWBmCGAR@cluster0.zzc7z.mongodb.net/Ahmed?retryWrites=true&w=majority",
+    "secretOrKey": "my secret"
+}
